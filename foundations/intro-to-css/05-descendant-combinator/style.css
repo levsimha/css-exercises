@@ -4,3 +4,12 @@
   font-size: 20px;
   text-align: center;
 }
+
+/* All possible descendant combinators:
+
+div p
+.container .text
+div .text
+.container p
+
+*/
