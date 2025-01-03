@@ -50,8 +50,14 @@ input {
 
 /* .left-links, .right-links {} can also be used, but ul is better in this case */
 ul {
+  list-style-type: none;
   padding: 0;
   margin: 0;
   display: flex;
   gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
 }
