@@ -14,13 +14,13 @@ img {
   margin-bottom: 32px;
 }
 
-.plants {
+.container {
   display: flex;
   justify-content: center;
   gap: 52px;
 }
 
-.plant {
+.info {
   max-width: 200px;
 }
 
